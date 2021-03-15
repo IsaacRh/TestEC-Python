@@ -1,12 +1,13 @@
 ## TestRC-Python
 ### Para visualizar y ejecutar cada uno de los ejercicios es necesario moverse a la rama respectiva
-> Seccion A
+---
+> [Seccion A](https://github.com/IsaacRh/TestEC-Python/tree/sectionA)
 >> Moverse a la rama llamada sectionA y clonar el respositorio
 
-> Seccion B
+> [Seccion B](https://github.com/IsaacRh/TestEC-Python/tree/sectionB)
 >> Moverse a la rama llamada sectionB y clonar el respositorio
 
-> Seccion C
+> [Seccion C](https://github.com/IsaacRh/TestEC-Python/tree/sectionC)
 >> Moverse a la rama llamada sectionC y clonar el respositorio
 
 ---
