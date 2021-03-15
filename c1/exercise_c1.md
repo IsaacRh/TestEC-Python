@@ -16,6 +16,9 @@
 
 
 > ### Las pruebas propuestas son las siguientes
+> los estados que se manejarian en cada prueba podrían ser: Given, When y Then
+> esto con el fin de aclarar el estado previo(given), lo que se está probando (when) y el resultado que se espera(then)
+
 >> - Hacer pruebas aisladas de cada API o microservicio que integra toda la funcionalidad de suscripciones
 >> - Ejecutar pruebas de interfaz, es decir con base al tipo de suscripción que aspectos o herramientas se habilitan dentro de la plataforma WEB
 >> - Realizar pruebas unitarias con todas las opciones de pago disponibles dentro de la plataforma
