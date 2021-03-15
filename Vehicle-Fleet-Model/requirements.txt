@@ -1,7 +1,0 @@
-flask
-flask-sqlalchemy
-psycopg2
-flask-migrate
-sqlalchemy-utils
-pymysql
-pytz
